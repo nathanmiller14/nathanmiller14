@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @nathanmiller14
-- 👀 I’m interested in ... data visualization, statistics
-- 🌱 I’m currently learning ... Electrical/Computer Engineering and Computer Science at Kettering University
-                                Python in my free time
+- 🌱 I’m currently learning ... a computer science student at Kettering University
 - 📫 How to reach me ... NathanScott1013@hotmail.com <--Personal Email
                          mill1492@kettering.edu <-- School Email
                          (810)-278-4901 <--Phone Number
