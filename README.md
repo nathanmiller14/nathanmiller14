@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nathanmiller14
-- 🌱 I’m currently learning ... a computer science student at Kettering University
+- 🌱 I’m currently a computer science student at Kettering University
 - 📫 How to reach me ... NathanScott1013@hotmail.com <--Personal Email
                          mill1492@kettering.edu <-- School Email
                          (810)-278-4901 <--Phone Number
